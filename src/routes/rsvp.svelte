@@ -4,7 +4,6 @@
     <h1 class="text-2xl text-center "> Por favor, confirma tu asistencia y rellena el formulario con tus preferencias</h1>
     <div class="flex items-center justify-center mt-16">
         <a href="#" class="btn-primary"> Go to the form / Ir al formulario </a>
-    
     </div>
 </div>
 

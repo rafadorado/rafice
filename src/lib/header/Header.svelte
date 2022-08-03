@@ -1,13 +1,14 @@
 <script lang="ts">
 	import logo from '../../images/logo.svg';
-	
+	import { base } from '$app/paths';
+
 </script>
 <header class="relative">
 	<div class="pt-6">
 	  <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6" aria-label="Global">
 		<div class="flex items-center flex-1">
 		  <div class="flex items-center justify-between w-full md:w-auto">
-			<a href="/">
+			<a href="{base}/">
 			  <span class="sr-only">Workflow</span>
 			  <img class="h-8 w-auto sm:h-10" src="{logo}" alt="">
 			</a>
@@ -23,13 +24,13 @@
 		  </div>
 		  <div class="hidden space-x-8 md:flex md:ml-10">
 			
-			<a href="/rsvp" class="nav-link">RSVP | Asistencia</a>
+			<a href="{base}/rsvp" class="nav-link">RSVP | Asistencia</a>
 
-			<a href="/schedule" class="nav-link">Schedule | Plan</a>
+			<a href="{base}/schedule" class="nav-link">Schedule | Plan</a>
 
-			<a href="/travel" class="nav-link">Travel | Viajar</a>
+			<a href="{base}/travel" class="nav-link">Travel | Viajar</a>
 
-			<a href="/faq" class="nav-link">Q & A | Preguntas</a>
+			<a href="{base}/faq" class="nav-link">Q & A | Preguntas</a>
 
 		  </div>
 		</div>
@@ -65,15 +66,15 @@
 		</div>
 		<div class="pt-5 pb-6">
 		  <div class="px-2 space-y-1">
-			<a href="/" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Home</a>
+			<a href="{base}/" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Home</a>
 
-			<a href="/rsvp" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">RSVP</a>
+			<a href="{base}/rsvp" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">RSVP</a>
 
-			<a href="/schedule" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Schedule</a>
+			<a href="{base}/schedule" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Schedule</a>
 
-			<a href="/travel" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Travel</a>
+			<a href="{base}/travel" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Travel</a>
 
-			<a href="/faq" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Q & A</a>
+			<a href="{base}/faq" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Q & A</a>
 
 		  </div>
 	

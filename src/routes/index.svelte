@@ -2,6 +2,8 @@
   import bike from '../images/bike.png';
   import map from '../images/map.svg';
   import calendar from '../images/calendar.svg';
+  import { base } from '$app/paths';
+
 </script>
 
 <svelte:head>
@@ -50,7 +52,7 @@
 			</div>
 		</div>
 		<div class="  flex flex-col items-center justify-center">
-		  <a href="/rsvp" class="btn-primary">RSVP</a>
+		  <a href="{base}/rsvp" class="btn-primary">RSVP</a>
 		</div>
 	</div>
 	
