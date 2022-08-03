@@ -20,7 +20,7 @@ const config = {
 		  precompress: false
 		}),
 		files: {
-			assets: 'src/static'
+			assets: 'static'
 		},
 		paths: {
             // change below to your repo name
