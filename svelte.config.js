@@ -1,6 +1,6 @@
 import adapter from "@sveltejs/adapter-static"; 
-// was "@sveltejs/adapter-auto"
 
+// optional
 import preprocess from 'svelte-preprocess';
 
 const dev = process.env.NODE_ENV === 'development';
