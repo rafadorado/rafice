@@ -19,6 +19,9 @@ const config = {
 		  fallback: null,
 		  precompress: false
 		}),
+		files: {
+			assets: 'src/static'
+		},
 		paths: {
             // change below to your repo name
             base: dev ? "" : "/rafice",
