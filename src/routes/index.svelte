@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-  <title>Welcome to Rafice</title>
+  <title>Welcome to Rafice </title>
   <meta name="description" content="Rafice Wedding Page" />
 </svelte:head>
 

@@ -6,7 +6,7 @@
   import canapes from '../images/canapes.jpeg'
   import arrival from '../images/arrival.gif'
   import wedding from '../images/wedding.gif'
-
+ 
 </script>
 
 <div class="flex flex-col divide-y-2 p-8 ">
