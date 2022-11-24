@@ -24,7 +24,7 @@ const config = {
 		},
 		paths: {
             // change below to your repo name
-            base: dev ? "" : "/rafice",
+            base: "",
         },
 		prerender: {
 		  // This can be false if you're using a fallback (i.e. SPA mode)
