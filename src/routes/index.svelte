@@ -51,8 +51,8 @@
 				<h1 class="text-2xl text-dark">3 Jun. 2023</h1>
 			</div>
 		</div>
-		<div class="  flex flex-col items-center justify-center">
-		  <a href="{base}/rsvp" class="btn-primary">RSVP</a>
+		<div class="  flex flex-col items-center justify-center p-4">
+		  <a href="https://forms.gle/fgrFn7zUzhh9mC15A" target="_blank" class="btn-primary">RSVP / Confirma Asistencia</a>
 		</div>
 	</div>
 	

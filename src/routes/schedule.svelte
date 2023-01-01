@@ -12,7 +12,7 @@
 <div class="flex flex-col divide-y-2 p-8 ">
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex">
-      <h1 class="font-alice text-4xl w-60">17:00 - 17:30</h1>
+      <h1 class="font-alice text-4xl w-60">18:00 - 18:30</h1>
     </div>
     <div class="flex flex-col grow h-28 justify-center">
       <p class="text-2xl text-dark">
@@ -28,7 +28,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex">
-      <h1 class="font-alice text-4xl w-60">17:30 - 18:00</h1>
+      <h1 class="font-alice text-4xl w-60">18:30 - 19:00</h1>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
       <p class="text-2xl text-dark">Rafice Ceremony    </p>
@@ -40,7 +40,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex space-x-4 items-center justify-start ">
-      <h2 class="font-alice text-4xl w-60">18:00 - 20:00</h2>
+      <h2 class="font-alice text-4xl w-60">19:00 - 21:00</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
       <p class="text-2xl text-dark">Canapés & drinks</p>
@@ -52,7 +52,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex space-x-4 items-center justify-start ">
-      <h2 class="font-alice text-4xl w-60">20:00 - 21:00</h2>
+      <h2 class="font-alice text-4xl w-60">21:00 - 22:00</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
       <p class="text-2xl text-dark">
@@ -68,7 +68,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex space-x-4 items-center justify-start ">
-      <h2 class="font-alice text-4xl w-60">21:00 - 21:30</h2>
+      <h2 class="font-alice text-4xl w-60">22:00 - 22:30</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
       <p class="text-2xl text-dark">
@@ -84,7 +84,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex flex-col items-center justify-start space-y-4">
-      <h2 class="font-alice text-4xl w-60">21:30 - 00:30</h2>
+      <h2 class="font-alice text-4xl w-60">22:30 - 01:30</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
         <p class="text-2xl text-dark">
@@ -100,7 +100,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex flex-col items-center justify-start space-y-4">
-      <h2 class="font-alice text-4xl w-60">00:30 - ?</h2>
+      <h2 class="font-alice text-4xl w-60">01:30 - ?</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
       <p class="text-2xl text-dark">

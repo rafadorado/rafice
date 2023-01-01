@@ -1,7 +1,13 @@
 <script lang="ts">
+	  import { navigating } from '$app/stores';
+
 	import logo from '../../images/logo.svg';
 	import { base } from '$app/paths';
-	let hidden = true
+	let hidden:boolean = true;
+	$: if($navigating) hideNavbar();
+	function hideNavbar() {
+		hidden = true;
+	}
 </script>
 <header class="relative">
 	<div class="pt-6">
@@ -28,7 +34,7 @@
 			
 			<a href="{base}/rsvp" class="nav-link">RSVP | Asistencia</a>
 
-			<a href="{base}/schedule" class="nav-link">Schedule | Plan</a>
+			<a href="{base}/schedule" class="nav-link">Schedule | Agenda</a>
 
 			<a href="{base}/travel" class="nav-link">Travel | Viajar</a>
 
@@ -74,13 +80,13 @@
 		  <div class="px-2 space-y-1">
 			<a href="{base}/" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Home</a>
 
-			<a href="{base}/rsvp" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">RSVP</a>
+			<a href="{base}/rsvp" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">RSVP | Asistencia</a>
 
-			<a href="{base}/schedule" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Schedule</a>
+			<a href="{base}/schedule" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Schedule | Agenda</a>
 
-			<a href="{base}/travel" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Travel</a>
+			<a href="{base}/travel" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Travel | Viajar</a>
 
-			<a href="{base}/faq" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Q & A</a>
+			<a href="{base}/faq" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Q & A | Preguntas</a>
 
 		  </div>
 	

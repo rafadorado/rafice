@@ -1,12 +1,11 @@
 <script lang="ts">
   import Header from '$lib/header/Header.svelte';
-  import bike from '../images/bike.png';
   import '../css/app.css';
 </script>
 
 <div class="bg-light min-h-screen">
   <div class="relative overflow-hidden">
-    <Header />
+    <Header/>
 
     <main>
       <div
