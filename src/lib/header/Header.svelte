@@ -11,8 +11,8 @@
 	
 </script>
 <svelte:head>
-	<meta property="og:image" content="{base}{bike}" />
-	<meta property="twitter:image" content="{base}{bike}" />
+	<meta property="og:image" content="https://rafice.cool{bike}" />
+	<meta property="twitter:image" content="https://rafice.cool{bike}" />
 
 </svelte:head>
 
