@@ -11,7 +11,9 @@
 	
 </script>
 <svelte:head>
-	<meta property="og:image" content="{bike}" />
+	<meta property="og:image" content="{base}{bike}" />
+	<meta property="twitter:image" content="{base}{bike}" />
+
 </svelte:head>
 
 <header class="relative">
