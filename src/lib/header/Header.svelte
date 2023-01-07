@@ -38,7 +38,9 @@
 
 			<a href="{base}/travel" class="nav-link">Travel | Viajar</a>
 
-			<a href="{base}/faq" class="nav-link">Q & A | Preguntas</a>
+			<a href="{base}/faq" class="nav-link">FAQ | Preguntas</a>
+
+			<a href="https://patchworkit.com/45900/rafice" class="nav-link" target="_blank">Gifts | Regalos</a>
 
 		  </div>
 		</div>
@@ -87,6 +89,8 @@
 			<a href="{base}/travel" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Travel | Viajar</a>
 
 			<a href="{base}/faq" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50">Q & A | Preguntas</a>
+
+			<a href="https://patchworkit.com/45900/rafice" class="block px-3 py-2 rounded-md text-base font-medium text-primary hover:bg-gray-50" target="_blank">Gifts | Regalos</a>
 
 		  </div>
 	

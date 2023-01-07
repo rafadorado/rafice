@@ -1,6 +1,6 @@
 <div class="grid md:grid-cols-2 gap-x-8">
   <div class="flex flex-col p-8 md:p-0">
-    <h1 class="text-4xl font-alice text-center mb-8">Travel & Accomodation</h1>
+    <h1 class="text-4xl font-alice text-center mb-8">Travel</h1>
 
     <h2 class="text-3xl mb-2">Important</h2>
     <p>
@@ -8,8 +8,8 @@
         class="link"
         href="https://goo.gl/maps/gCK5VwoqJWJPg2rb9"
         target="_blank">Can Palleta</a
-      >, a villa in the countryside which you can only get to by car. We
-      recommend staying in the surroundings area.
+      >, a countryside family villa which you can only get to by car or taxi. We
+      recommend staying in the surrounding area.
     </p>
 
     <h2 class="text-3xl mb-2 mt-4">1. Airport</h2>
@@ -56,20 +56,20 @@
     </ul>
     <h2 class="text-3xl mb-2  mt-4">4. Transport to the wedding</h2>
     <p>
-      There is a local taxi company in Cala D-or <a
+      There is a local taxi company called <a
         class="link"
         href="https://www.roig.com/"
-        target="_blank">Autor Roig</a
+        target="_blank">Auto Roig</a
       >. If you are staying in Cala D'or and need transport to the wedding we
-      will try to arrange a group bus to make it more cost effective. Please let
-      us know if you need this in the RSVP form.
+      will try to arrange a bus for you as a group, to make it more cost effective. Please let
+      us know if you need transport from Cala D'or in the RSVP form.
     </p>
   </div>
 
   <div class=" border-2 border-primary md:hidden" />
 
   <div class="flex flex-col p-8 md:p-0">
-    <h1 class="text-4xl font-alice text-center mb-8">Viaje y hospedaje</h1>
+    <h1 class="text-4xl font-alice text-center mb-8">Viajar</h1>
 
     <h2 class="text-3xl mb-2">Importante</h2>
     <p>

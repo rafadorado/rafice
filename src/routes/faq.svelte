@@ -4,65 +4,58 @@
 
 <div class="grid md:grid-cols-2 gap-x-8">
   <div class="flex flex-col p-8 md:p-0">
-    <h1 class="text-4xl font-alice text-center mb-8">Questions & Answers</h1>
+    <h1 class="text-4xl font-alice text-center mb-8">FAQ</h1>
 
     <h2 class="text-3xl mb-2">Where is the wedding taking place?</h2>
     <p>
-      Both the wedding ceremony and the celebrations will take place the same
+      Both the ceremony and the afterparty will take place at the same
       location in <a
         class="link"
         href="https://goo.gl/maps/gCK5VwoqJWJPg2rb9"
         target="_blank">Can Palleta</a
-      >, S'horta, Felanitx, Mallorca. Can Palleta is a villa with a garden and
-      pool, everything will take place outdoors.
+      >, S'horta, Felanitx, Mallorca. Can Palleta is a family villa with a garden and
+      pool and the wedding will take place outdoors.
     </p>
     <h2 class="text-3xl mb-2 mt-4">What will the weather be like?</h2>
     <p>
-      The weather is usually quite warm in early June in with temperatures
-      between 20 and 30 degrees celcius. The wedding starts later in the
-      afternoon to avoid the hottest part of the day. Don't forget to bring
+      The weather is usually quite warm in June with temperatures
+      ranging between 20 and 30 degrees celcius. The wedding begins early evening to avoid the hottest part of the day. Don't forget to bring
       suncream, hats and sunglasses.
     </p>
     <h2 class="text-3xl mb-2 mt-4">What is the dress code?</h2>
     <p>
-      You can wear whatever you feel comfortable in to our wedding, there is no
-      dress code! As the weather will be warm, you should wear summer clothes
-      and you may need a light jacket for the evening.
+      You can wear whatever you feel comfortable in, there is no
+      dress code! As the weather will be warm, summer clothes are fine but
+      you may need a light jacket for the evening.
     </p>
     <h2 class="text-3xl mb-2 mt-4">Can I bring a plus 1?</h2>
     <p>
-      We are looking forward to sharing this special day with the people we care
-      about. Unfortunately we are limited by space and cost and cannot offer all
-      our guests a plus 1. Please do not bring a plus 1 to our wedding if we
-      have not invited them ourselves.
+      We are looking forward to sharing our special day with the people most important to us. Unfortunately, as we are limited on space and cost and cannot offer all
+      our guests a plus 1.
     </p>
     <p>
-      This is an adults wedding. For those travelling from outside of Mallorca,
-      of course the little ones are invited. Please let us know if you will be
-      bringing any children in the RSVP form.
+      The wedding is primarily an adults party but we will have spaces for the little ones to play too. For those of you who have children and wish to bring them along, please let us know
+       in the RSVP form.
     </p>
     <h2 class="text-3xl mb-2 mt-4">
       What food and drink will be at the wedding?
     </h2>
     <p>
-      We will have plenty of food and drinks throughout the event, see the full
+      We will have plenty of food and drinks throughout the evening, see the full
       schedule <a class="link" href="{base}/schedule" target="_blank">here</a>.
-      We will have a mixture of vegan, vegetarian and meat options. If you have
-      any dietry requirements or allergies you can let us know in the RSVP form.
+      We will have a combination of vegan, vegetarian and meat dishes. If you have
+      any dietry requirements or allergies, let us know in the RSVP form.
     </p>
     <h2 class="text-3xl mb-2 mt-4">Is there a gifts registry?</h2>
     <p>
       As cheesy as it sounds, your presence at our wedding is a present in
-      itself, we don't expect any gifts. However, we will have a letterbox for
-      wedding cards at the ceremony. If you want to give us a little something
-      for our honeymoon, we will be adding a link to this webpage later on for
-      you to contribute online.
+      itself, we don't expect any gifts. We will have a letterbox for
+      wedding cards at the ceremony and if you do want to contibute towards
+       our honeymoon, you can do so <a class="link" href="https://patchworkit.com/45900/rafice">here</a>.
     </p>
-    <h2 class="text-3xl mb-2 mt-4">Can we park at the wedding venue?</h2>
+    <h2 class="text-3xl mb-2 mt-4">Can we park at the venue?</h2>
     <p>
-      There will be parking spaces at the wedding venue. We will be putting up
-      signs near the entrance to the venue to direct you. If you plan to park at
-      the venue, please let us know in the RSVP form.
+      Yes, there will be some parking places at the venue. If you need to reserve a space, please let us know in the RSVP form.
     </p>
   </div>
 
@@ -116,7 +109,7 @@
     <p>
       El regalo es que podáis acompañarnos :-). No esperamos nada. De todas
       formas, si aún así queréis regalarnos algo, aceptamos sobres a lo
-      Bárcenas. Pondremos un link para que nos ayudéis en nuestra Luna de Miel.
+      Bárcenas o podéis ayudarnos para la Luna de Miel en esta <a class="link" href="https://patchworkit.com/45900/rafice">web</a>
     </p>
     <h2 class="text-3xl mb-2 mt-4">¿Hay Parking?</h2>
     <p>
