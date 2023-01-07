@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-ec587ce3.js",
+    "file": "start-39359196.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-351cf2ce.js",
+      "_index-e289491a.js",
       "_paths-396f020f.js"
     ],
     "dynamicImports": [
@@ -18,12 +18,13 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-6c59d0de.js",
+    "file": "pages/__layout.svelte-dbdb2876.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js",
+      "_index-e289491a.js",
+      "_bike-98e87319.js",
       "_paths-396f020f.js"
     ],
     "css": [
@@ -34,54 +35,54 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-c6e6b4f5.js",
+    "file": "error.svelte-29167196.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js"
+      "_index-e289491a.js"
     ]
   },
   "src/routes/faq.svelte": {
-    "file": "pages/faq.svelte-f9fa3cd6.js",
+    "file": "pages/faq.svelte-06d53a8f.js",
     "src": "src/routes/faq.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js",
+      "_index-e289491a.js",
       "_paths-396f020f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-657bb416.js",
+    "file": "pages/index.svelte-cb2e0005.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js"
+      "_index-e289491a.js",
+      "_bike-98e87319.js"
     ],
     "assets": [
-      "assets/bike-a55de435.png",
       "assets/map-c64a9dc2.svg",
       "assets/calendar-0a8c3124.svg"
     ]
   },
   "src/routes/rsvp.svelte": {
-    "file": "pages/rsvp.svelte-836dfead.js",
+    "file": "pages/rsvp.svelte-b917592d.js",
     "src": "src/routes/rsvp.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js"
+      "_index-e289491a.js"
     ]
   },
   "src/routes/schedule.svelte": {
-    "file": "pages/schedule.svelte-50df9519.js",
+    "file": "pages/schedule.svelte-359b319e.js",
     "src": "src/routes/schedule.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js"
+      "_index-e289491a.js"
     ],
     "assets": [
       "assets/drunk-f76ba5d1.gif",
@@ -94,18 +95,24 @@
     ]
   },
   "src/routes/travel.svelte": {
-    "file": "pages/travel.svelte-94359b62.js",
+    "file": "pages/travel.svelte-f046c07f.js",
     "src": "src/routes/travel.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-351cf2ce.js"
+      "_index-e289491a.js"
     ]
   },
-  "_index-351cf2ce.js": {
-    "file": "chunks/index-351cf2ce.js"
+  "_index-e289491a.js": {
+    "file": "chunks/index-e289491a.js"
   },
   "_paths-396f020f.js": {
     "file": "chunks/paths-396f020f.js"
+  },
+  "_bike-98e87319.js": {
+    "file": "chunks/bike-98e87319.js",
+    "assets": [
+      "assets/bike-a55de435.png"
+    ]
   }
 }

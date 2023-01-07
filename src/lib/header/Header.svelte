@@ -1,6 +1,6 @@
 <script lang="ts">
-	  import { navigating } from '$app/stores';
-
+	import { navigating } from '$app/stores';
+	import bike from '../../images/bike.png';
 	import logo from '../../images/logo.svg';
 	import { base } from '$app/paths';
 	let hidden:boolean = true;
@@ -8,8 +8,14 @@
 	function hideNavbar() {
 		hidden = true;
 	}
+	
 </script>
+<svelte:head>
+	<meta property="og:image" content="{bike}" />
+</svelte:head>
+
 <header class="relative">
+
 	<div class="pt-6">
 	  <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6" aria-label="Global">
 		<div class="flex items-center flex-1">
