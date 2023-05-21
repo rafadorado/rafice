@@ -84,7 +84,7 @@
   </div>
   <div class="flex flex-wrap items-center justify-start md:space-x-4 py-4">
     <div class="flex flex-col items-center justify-start space-y-4">
-      <h2 class="font-alice text-4xl w-60">22:30 - 01:30</h2>
+      <h2 class="font-alice text-4xl w-60">22:30 - 02:30</h2>
     </div>
     <div class="flex flex-col flex-grow h-28 justify-center">
         <p class="text-2xl text-dark">
